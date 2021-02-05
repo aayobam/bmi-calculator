@@ -1,7 +1,7 @@
 # bmi-calculator
 Python.
 Console Application.
-This console application is developed with python and is used to calculate body mass index in imperial and standard forms.
+This console application is developed with python and is used to calculate body mass index in imperial and metrics standard forms.
 
 USAGE: 
 Open your command prompt or shell or bash,chose  a directory to clone the project and git clone https://github.com/aayobam/bmi-calculator.git to your local system.
